@@ -19,7 +19,7 @@ A focused Python SDK and MCP server for the [Wan 3.0 API on MuAPI](https://muapi
 - [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) — Python SDK for ByteDance Seedance video generation.
 - [Veo-4-API](https://github.com/Anil-matcha/Veo-4-API) — Python SDK for Google Veo AI video generation.
 - [Flux-3-Dev-API](https://github.com/Anil-matcha/Flux-3-Dev-API) — Python SDK for FLUX 3 image and video generation.
-- [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — agent-ready skills for automated media workflows.
+- [muapi-skills](https://github.com/SamurAIGPT/muapi-skills) — agent-ready skills for automated media workflows.
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — command-line access to MuAPI image, video, and audio models.
 - [wan-3.0-comfyui](https://github.com/Anil-matcha/wan-3.0-comfyui) — ComfyUI custom nodes for Wan 3.0 text-to-image, image edit, text-to-video, and image-to-video via MuAPI.
 - [Wan-3.0-Prime-API](https://github.com/Anil-matcha/Wan-3.0-Prime-API) — Higher-fidelity Wan 3.0 Prime tier Python SDK and MCP server, same request shape as this repo.
