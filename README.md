@@ -9,6 +9,8 @@ A focused Python SDK and MCP server for the [Wan 3.0 API on MuAPI](https://muapi
 <p align="center"><a href="https://youtu.be/T4Oddw74O44"><img src="https://i.ytimg.com/vi/T4Oddw74O44/maxresdefault.jpg" width="720"></a></p>
 <p align="center"><a href="https://youtu.be/T4Oddw74O44"><b>▶ Watch: How to Access Wan 3.0 API - Best Uncensored Alternative to Seedance 2 </b></a></p>
 
+> **Looking for the Wan 3.0 Spicy API?** This repository documents standard Wan 3.0 endpoints. The companion [Wan 3.0 Spicy API](https://github.com/Anil-matcha/Wan-3.0-Spicy-API) covers the relaxed-moderation routes often searched as an “uncensored Wan 3.0 API”; “Spicy” means lighter filtering, not unrestricted generation.
+
 ## Related Projects
 
 - [Wan 3 on MuAPI](https://muapi.ai/wan-3) — Model landing page for Wan video-generation workflows.
